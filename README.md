@@ -1,2 +1,2 @@
-# technoindic.pramodbiet
+# technoindic-pramodbiet
 Technoindic first project
